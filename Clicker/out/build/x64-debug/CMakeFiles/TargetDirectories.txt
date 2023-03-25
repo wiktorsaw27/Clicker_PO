@@ -1,0 +1,5 @@
+C:/Users/bałagan/Desktop/qt testy/Clicker/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/bałagan/Desktop/qt testy/Clicker/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bałagan/Desktop/qt testy/Clicker/out/build/x64-debug/Clicker/CMakeFiles/Clicker.dir
+C:/Users/bałagan/Desktop/qt testy/Clicker/out/build/x64-debug/Clicker/CMakeFiles/edit_cache.dir
+C:/Users/bałagan/Desktop/qt testy/Clicker/out/build/x64-debug/Clicker/CMakeFiles/rebuild_cache.dir
